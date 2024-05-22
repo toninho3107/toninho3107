@@ -1,10 +1,16 @@
 - 👋 Hi, I’m @toninho3107
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  .Meu nome é antonio alves muniz
+
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+### Você pode entrar em contato comigo :mailbox
+
+antoniomunis3107@gmail.com
+@antoniomunis3107
+
+  
+
 
 <!---
 toninho3107/toninho3107 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
